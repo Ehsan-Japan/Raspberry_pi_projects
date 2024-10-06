@@ -39,7 +39,7 @@ int main(void)
         // Output a message indicating the LED is on
         printf("LED turned on >>>\n");
         // Wait for 1000 milliseconds (1 second)
-        delay(1000);
+        delay(10000);
 
         // Turn the LED off by setting the pin voltage LOW
         digitalWrite(ledPin, LOW);
