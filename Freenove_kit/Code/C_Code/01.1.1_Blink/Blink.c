@@ -7,8 +7,6 @@
 #include <wiringPi.h>
 #include <stdio.h>
 
-#define  ledPin    0	//define the led pin number
-
 #include <wiringPi.h>   // Include the wiringPi library for GPIO control
 #include <stdio.h>      // Include the standard I/O library for printf()
 
